@@ -1,0 +1,83 @@
+body{
+  position: sticky;
+}
+img{
+    position: absolute;
+width: 700px;
+height: 750px;
+left: 0px;
+top: 0px;
+position: fixed;
+
+}
+.top-left {
+    position: absolute;
+    top: 40px;
+    left: 35px;
+    font-weight: bold;
+    font-size: 25px;
+  }
+  #btn{
+    width: 80px;
+    height: 25px;
+    font-weight: bold;
+  }
+
+  .link{
+    text-decoration: none;
+    margin-left: 430px;
+    color: black;
+    font-size: small;
+    margin-top: 20px;
+    font-size: 12px;
+  }
+  #text{
+    margin-left: 130px;
+    margin-top: 120px;
+    font-family: archievo;
+    font-weight: bold;
+  }
+  #email{
+    margin-left: 80px;
+    border: 1px solid #005EFF;
+    border-radius: 10px 10px 0px 0px;
+    height: 45px;
+  }
+  #password{
+    margin-left: 80px;
+    height: 45px;
+  }
+  #box{
+    margin-left: 55px;
+  }
+  .fopa{
+    font-size: small;
+    text-decoration: none;
+    margin-left: 106px;
+    color: black;
+  }
+  #login{
+    margin-left: 130px;
+    width: 345px;
+    height: 50px;
+  }
+  .cracc{
+    text-decoration: none;
+    margin-left: 250px;
+    color: black;
+    font-size: small;
+  }
+  .btnl{
+    background: #005EFF;
+    border-radius: 10px;
+color: white;
+text-decoration: none;
+border: 1px solid #005EFF;
+
+  }
+  .btnl:hover {
+    transform: scale(0.9);
+
+  }
+
+  
